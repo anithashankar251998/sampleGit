@@ -1,6 +1,6 @@
-package org.sample;
+package org.git;
 
-public class Sample {
+public class Git {
 	
 	public static void main(String[] args) {
 		
